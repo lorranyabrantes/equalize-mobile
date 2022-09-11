@@ -1,0 +1,25 @@
+{
+  "name": "Equalize",
+  "displayName": "Equalize",
+  "expo": {
+    "name": "Equalize",
+    "slug": "equalize",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/**/**/*"
+    ],
+    "android": {
+      "icon": "./src/assets/png/app-icon.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/png/app-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.fiap.equalize"
+    },
+    "splash": {
+      "image": "./src/assets/png/app-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}
