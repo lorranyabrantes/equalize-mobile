@@ -21,6 +21,9 @@
       "image": "./src/assets/png/app-splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#FFFFFF"
+    },
+    "ios": {
+      "bundleIdentifier": "com.fiap.equalize"
     }
   }
 }
