@@ -7,7 +7,7 @@ Esse projeto foi desenvolvido usando [Create React Native App](https://github.co
 O projeto segue a seguinte estrutura de pastas:
 
 ```
-|-- equalize-app
+|-- fiap-equalize-app
     |-- android
     |-- ios
     |-- src
